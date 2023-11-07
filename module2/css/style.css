@@ -23,7 +23,7 @@ h1 {
 
 .menu-item {
     position: relative;
-    background-color: #9b9998;
+    background-color: #3cb371;
     border: 2px solid black;
     margin: 0 10px 20px 10px;
 }
@@ -38,15 +38,15 @@ h1 {
 }
 
 .chicken {
-    background-color: #d39b9b;
+    background-color: #ee82ee;
 }
 
 .beef {
-    background-color: #a6533f;
+    background-color: #6fa8dc;
 }
 
 .sushi {
-    background-color: #9e8964;
+    background-color: #e06666;
 }
 
 p {
