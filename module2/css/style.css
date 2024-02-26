@@ -3,9 +3,14 @@
     margin: 0;
     padding: 0;
 }
+h1{
+    font-family:Verdana;
+    font-style: bold;
+}
 
-body {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+p {
+    font-family:Verdana;
+    font-style: italic;
 }
 
 h1 {
@@ -23,7 +28,7 @@ h1 {
 
 .menu-item {
     position: relative;
-    background-color: #3cb371;
+    background-color: #3cb379;
     border: 2px solid black;
     margin: 0 10px 20px 10px;
 }
